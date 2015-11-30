@@ -2,19 +2,15 @@ spring-boot-sample-thrift
 ==========
 
 ## 项目简介
-spring-boot集成thrift的示例，可以作为微服务架构的应用的基准代码
+spring-boot 集成 thrift 的示例，可以作为微服务架构应用的基准代码。
 
 
 ## How To Use
 
-1. import project
-
-  导入你的IDE后，执行一下 maven-thrift-plugin 插件的 compile 操作，用于生成必要的代码
-
-1. 打runable jar
+1. 打 runnable jar
 
   ```
-      mvn clean package
+      mvn clean thrift:compile package
   ```
 
 2. 构建镜像
