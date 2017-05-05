@@ -1,7 +1,7 @@
-package com.xinhuanet.crawler;
+package com.dolplay.crawler;
 
-import com.xinhuanet.crawler.example.calculator.TCalculatorService;
-import com.xinhuanet.crawler.example.calculator.handler.CalculatorServiceHandler;
+import com.dolplay.crawler.example.calculator.TCalculatorService;
+import com.dolplay.crawler.example.calculator.handler.CalculatorServiceHandler;
 import org.apache.thrift.protocol.TBinaryProtocol;
 import org.apache.thrift.protocol.TProtocolFactory;
 import org.apache.thrift.server.TServlet;

@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER gongchengdong <gongchengdong@news.cn>
+MAINTAINER conanca <imconan@gmail.com>
 
 RUN echo "Asia/Shanghai" > /etc/timezone
 RUN dpkg-reconfigure -f noninteractive tzdata

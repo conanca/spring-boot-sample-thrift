@@ -1,4 +1,4 @@
-namespace java com.xinhuanet.crawler.example.calculator
+namespace java com.dolplay.crawler.example.calculator
 
 enum TOperation {
   ADD = 1,

@@ -1,4 +1,4 @@
-package com.xinhuanet.crawler.example.calculator.service;
+package com.dolplay.crawler.example.calculator.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,9 +1,9 @@
-package com.xinhuanet.crawler.datacenter.example;
+package com.dolplay.crawler.datacenter.example;
 
-import com.xinhuanet.crawler.Application;
-import com.xinhuanet.crawler.example.calculator.TCalculatorService;
-import com.xinhuanet.crawler.example.calculator.TDivisionByZeroException;
-import com.xinhuanet.crawler.example.calculator.TOperation;
+import com.dolplay.crawler.Application;
+import com.dolplay.crawler.example.calculator.TCalculatorService;
+import com.dolplay.crawler.example.calculator.TDivisionByZeroException;
+import com.dolplay.crawler.example.calculator.TOperation;
 import org.apache.thrift.protocol.TProtocol;
 import org.apache.thrift.protocol.TProtocolFactory;
 import org.apache.thrift.transport.THttpClient;

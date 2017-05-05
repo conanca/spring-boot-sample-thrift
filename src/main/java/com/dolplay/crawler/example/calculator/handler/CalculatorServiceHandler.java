@@ -1,9 +1,9 @@
-package com.xinhuanet.crawler.example.calculator.handler;
+package com.dolplay.crawler.example.calculator.handler;
 
-import com.xinhuanet.crawler.example.calculator.TCalculatorService;
-import com.xinhuanet.crawler.example.calculator.TDivisionByZeroException;
-import com.xinhuanet.crawler.example.calculator.TOperation;
-import com.xinhuanet.crawler.example.calculator.service.CalculatorService;
+import com.dolplay.crawler.example.calculator.TCalculatorService;
+import com.dolplay.crawler.example.calculator.TDivisionByZeroException;
+import com.dolplay.crawler.example.calculator.TOperation;
+import com.dolplay.crawler.example.calculator.service.CalculatorService;
 import org.apache.thrift.TException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
